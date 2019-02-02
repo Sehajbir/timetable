@@ -1,6 +1,5 @@
 var cacheName = "ttcache";
 var filesToCache = [
-    '/',
     '/static/w3.css',
     '/static/img/icons8-calendar-96.png',
     '/static/img/icons8-calendar-144.png'
